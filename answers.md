@@ -49,3 +49,12 @@ Author: Adam Sadowski <as774722@ohio.edu>
 Date:   Tue Sep 3 17:03:38 2024 -0400
 
     Initial commit
+
+Answer 9:
+all correct
+
+Answer 10:
+Answer reflect the same on local repostitory
+
+Answer 11:
+It threw error
